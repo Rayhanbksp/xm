@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-image: url(../img/rayhan2.jpg);
+}
+.container{
+	width: 1140;
+	margin:0 auto; 
+
+}
+.one{
+	width: 55%;
+	float: left;
+
+}
+.one h1{
+
+}
+.one p {
+
+}
+.one ul{
+
+}
+.one ul li{
+
+}
+button{
+	    color: white;
+    background: blue
+
+}
+.two{
+	width: 35%;
+	float:left;
+}
